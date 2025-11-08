@@ -1,4 +1,4 @@
-# Análisis de Ventas — AluraStore Latam (Challenge 1)
+# Análisis de Ventas — AluraStore Latam (Challenge)
 
 ## Descripción
 ----------
@@ -124,3 +124,4 @@ pasos prácticos y recomendaciones para ejecutar y sacar provecho al notebook `A
 ## Archivo principal
 -----------------
 - `AluraStoreLatam.ipynb` — Notebook con todo el análisis y gráficos.
+
